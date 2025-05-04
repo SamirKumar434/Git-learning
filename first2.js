@@ -21,6 +21,8 @@ function balancechecker(){
     console.log("UPdate");
     // 
 }
+console.log("hello ji sare");
+console.log("kaise ho aap sab");
 
 
 //  code likho
