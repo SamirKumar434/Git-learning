@@ -15,6 +15,8 @@ console.log("Hello Ji");
 
 const c = 20+10;
 console.log(c);
+const d=30+20;
+console.log(d);
 
 function balancechecker(){
     // 
