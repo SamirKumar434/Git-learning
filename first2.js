@@ -25,6 +25,8 @@ function balancechecker(){
 }
 console.log("hello ji sare");
 console.log("kaise ho aap sab");
+const upi="enter ur UPI id";
+console.log(upi);
 
 
 //  code likho
